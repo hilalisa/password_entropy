@@ -40,3 +40,5 @@ cat src/password_entropy/password_entropy.go|  bin/password_entropy -predict -mo
 
 Columns are, for each line: average log probability (take negative for entropy), total
 log probability, number of ngrams, and the line.
+
+The `Sccanf` line reminds me that format strings always look line line noise, and now we have the science to prove it!
